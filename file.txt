@@ -4,6 +4,6 @@
 Изменение №3 в Файд два
 Изменение №4 в Файд два
 Изменения №5 в Файл два
-Line from user1
+LINE FROM USER2
 Another line from user2
 line#1 from user2
