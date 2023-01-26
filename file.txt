@@ -5,3 +5,5 @@
 Изменение №4 в Файд два
 Изменения №5 в Файл два
 Line from file
+Another line from user2
+line#1 from user2
